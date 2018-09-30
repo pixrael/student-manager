@@ -7,6 +7,10 @@
   margin-right: 3px;
 }
 
+.button-icon > .icon {
+  font-size: 8px;
+}
+
 .button-icon {
   padding: 5px;
   border-radius: 2px;
