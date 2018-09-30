@@ -1,0 +1,23 @@
+.add-button {
+  float: right;
+  border-radius: 2px;
+  color: white;
+  background-color: #212529;
+  margin-bottom: 2px;
+  margin-right: 3px;
+}
+
+.button-icon > .icon {
+  font-size: 8px;
+}
+
+.button-icon {
+  padding: 5px;
+  border-radius: 2px;
+  margin-top: -4px;
+}
+
+.icon,
+.button-icon {
+  line-height: 0;
+}
